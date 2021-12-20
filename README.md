@@ -9,7 +9,7 @@ Explore US Bikeshare Data
 I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also worte a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### What Software Is Needed
-Python 3, NumPy, and pandas installed using Anaconda
+Python 3, NumPy, and pandas installed using Anaconda.
 A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
@@ -19,7 +19,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 ###Statistics Computed
 
-Popular times of travel (i.e., occurs most often in the start time)
-Popular stations and trip
-Trip duration
-User info
+Popular times of travel (i.e., occurs most often in the start time).
+Popular stations and trip.
+Trip duration.
+User info.
