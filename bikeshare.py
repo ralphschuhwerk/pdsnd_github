@@ -186,7 +186,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+"""Simulat refactor part three"""
 """The user is asked if some raw data should be displayed and if yes then this is displayed and the user is asked if addtional five rows should be displayed and so on until no is entered"""
 def raw_data(df):
     next_rows = input('\nWould you like to see first 5 rows of raw data? Please enter yes or no ').lower()
