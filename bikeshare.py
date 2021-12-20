@@ -88,6 +88,7 @@ def load_data(city, month, day):
     print(df.head())
     return df
 
+"""Simulate some refacturing part two"""
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
